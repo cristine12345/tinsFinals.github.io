@@ -1,0 +1,41 @@
+/* mystyle.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #000; /* Black background color */
+    color: #8B4513; /* Brown text color */
+}
+
+h1 {
+    clear: both;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Shadow effect for text */
+}
+
+h2 {
+    float: left;
+    clear: both;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Shadow effect for text */
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    float: left;
+    clear: both;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8); /* Shadow effect for image */
+}
+
